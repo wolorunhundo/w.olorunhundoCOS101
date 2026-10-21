@@ -1,0 +1,4 @@
+Welcome to Rust Programming
+Week 9 - Rust File Input & Output
+Department of Data Science
+Hello ClassThis is the appendage to the document.
